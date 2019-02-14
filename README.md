@@ -68,3 +68,7 @@ _This layout was designed to remove the defects in the button layout of conventi
 ![SEL Keyboard enhanced ergonomics](img/sel_enhanced.png)
 
 -----------------------------------------------
+
+#### Useful links:
+
+[Alternative Keyboard Layouts](http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html)
