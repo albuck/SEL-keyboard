@@ -32,7 +32,7 @@ _This layout was designed to remove the defects in the button layout of conventi
 -----------------------------------------------
 ### SEL Keybord ergonomics
 
-+ A separate color is assigned to the keys of a separate finger.
++ Different color keys are assigned to each finger.
 + The circle of the other color shows the possibility of pressing key by another finger.
 
 ![SEL Keyboard ergonomics](img/sel_ergonomics.png)
