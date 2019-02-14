@@ -30,7 +30,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 ![SEL Control layout](img/vald.png)
 
 -----------------------------------------------
-### Spaudyno tõgė (ergonomika)
+### Spaudyno togė (ergonomika)
 
 + Atskiro piršto spaudžiamam mygtukui priskirta atskira spalva.
 + Kitos spalvos skrituliukas rodo spaudimo kitu pirštu galimybę.
