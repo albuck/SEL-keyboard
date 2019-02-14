@@ -5,7 +5,7 @@
 
 _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtukų išdėstymo trūkumus._
 
-+ Standartinė ergonomiško išdėstymo kompiuterio klaviatūra (spaudynas) turi 90 mygtukų.
++ Standartinė ergonomiško išdėstymo kompiuterio klaviatūra (spaudynas) turi 90 mygtukų (48 iš kurių yra spausdinamųjų ženklų mygtukai).
 + Kairioji ir dešinioji spaudyno skiltys yra pakreiptos 14° į vidų nuo pagrindo (galėtų būti gaminama ir su kiek keičiamu pakreipimo laipsniu).
 + Spaudynas tinka staliniam bei nešiojamam kompiuteriui.
 + Spaudyno naudotojas turi turėti galimybę sukeitinėti mygtukus vietomis ir išsaugoti savo parinktis.
