@@ -70,9 +70,11 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 -----------------------------------------------
 
 
-#### Ergonomiški klaviatūros spaudų išdėstymai:
+#### Naudingos nuorodos:
 
 [Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“](https://albuck.github.io/Ratise-layout/)
 
 [Lietuviška ergonomiška klaviatūra „LEKP“](https://lekp.info/)
+
+[Alternative Keyboard Layouts (angliškai)](http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html)
 
