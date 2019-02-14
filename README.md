@@ -21,11 +21,11 @@ _This layout was designed to remove the defects in the button layout of conventi
 
 + Available order options:
 
-  + SEL Keybord — Fn-F12-F11 + F1 = 1 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.) 
-  + PC Keyboard — Fn-F12-F11 + F2 = 2
-  + MacOS Keyboard — Fn-F12-F11 + F3 = 3
-  + PC Keyboard mod 2 — Fn-F12-F11 + F4 = 4
-  + PC Keyboard mod 3 — Fn-F12-F11 + F5 = 5 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.)
+  1. SEL Keybord — Fn-F12-F11 + F1 = 1 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.) 
+  2. PC Keyboard — Fn-F12-F11 + F2 = 2
+  3. MacOS Keyboard — Fn-F12-F11 + F3 = 3
+  4. PC Keyboard mod 2 — Fn-F12-F11 + F4 = 4
+  5. PC Keyboard mod 3 — Fn-F12-F11 + F5 = 5 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.)
 
 ![SEL Control layout](img/vald.png)
 
