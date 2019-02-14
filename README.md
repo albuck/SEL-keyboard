@@ -42,14 +42,7 @@ _This layout was designed to remove the defects in the button layout of conventi
 
 + Optional 2, 4 or 6 programmable keys.
 + Optional NumPads are available: right main and left two different (one inverted right).
-+ ‘Fn’ level of the keys in blue.
-+ Save locations for user layout settings:
- F6;
- F7;
- F8;
- F9;
- F10.
-
++ ‘Fn’ level keys are in blue.
 
 ![SEL Keyboard full](img/sel_full.png)
 
