@@ -21,11 +21,11 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 + Galimos valdiklių eiliškumo parinktys:
 
-+ + SEL Klaviatūra — Fn-F12-F11 + F1 = 1 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
-+ + PC Klaviatūra — Fn-F12-F11 + F2 = 2
-+ + MacOS Klaviatūra — Fn-F12-F11 + F3 = 3
-+ + PC Klaviatūra mod 2 — Fn-F12-F11 + F4 = 4
-+ + PC Klaviatūra mod 3 — Fn-F12-F11 + F5 = 5 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
+  + SEL Klaviatūra — Fn-F12-F11 + F1 = 1 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
+  + PC Klaviatūra — Fn-F12-F11 + F2 = 2
+  + MacOS Klaviatūra — Fn-F12-F11 + F3 = 3
+  + PC Klaviatūra mod 2 — Fn-F12-F11 + F4 = 4
+  + PC Klaviatūra mod 3 — Fn-F12-F11 + F5 = 5 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
 
 ![SEL Control layout](img/vald.png)
 
