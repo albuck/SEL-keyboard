@@ -68,3 +68,12 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 ![SEL Keyboard enhanced ergonomics](img/sel_enhanced.png)
 
 -----------------------------------------------
+
+
+### Ergonomiškai klaviatūrai reikalinga ergonomiškas spaudų išdėstymas:
+
+[Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“](https://albuck.github.io/Ratise-layout/)
+
+[Lietuviška ergonomiška klaviatūra „LEKP“](https://lekp.info/)
+
+
