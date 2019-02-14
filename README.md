@@ -19,7 +19,7 @@ _This layout was designed to remove the defects in the button layout of conventi
 -----------------------------------------------
 ### Optional sequences for control keys
 
-+ Available order options:
++ Available options:
 
   1. SEL Keybord — Fn-F12-F11 + F1 = 1 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.) 
   2. PC Keyboard — Fn-F12-F11 + F2 = 2
