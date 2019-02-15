@@ -43,13 +43,6 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 + Yra galimi programuojami papildomi 2, 4 arba 6 mygtukai.
 + Galimi pasirinktiniai skaučiukynės išdėtymai: dešinėje pagrindinis ir kairėje du skirtingi (vienas apverstasis dešinysis).
 + Mėlynais užrašais pažymėti ‘Fn’ lygio mygtukų reikšmės.
-+ Naudotojo spaudyno išdėstymo nusistatymų išsaugojimo vietos:
- F6;
- F7;
- F8;
- F9;
- F10.
-
 
 ![SEL Keyboard full](img/sel_full.png)
 
