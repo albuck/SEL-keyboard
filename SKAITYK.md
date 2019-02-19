@@ -65,7 +65,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 #### Naudingos nuorodos:
 
-[Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“](https://albuck.github.io/Ratise-layout/)
+[Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“](https://albuck.github.io/Ratise-keymap/)
 
 [Lietuviška ergonomiška klaviatūra „LEKP“](https://lekp.info/)
 
