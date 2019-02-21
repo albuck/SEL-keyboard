@@ -21,7 +21,8 @@ _This layout was designed to remove the defects in the layout of conventional st
 
 + Available options:
 
-  1. SEL Keybord — Fn-F12-F11 + F1 = 1 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.) 
+  1. SEL Keybord — Fn-F12-F11 + F1 = 1 — (‘Menu’ works by releasing the ‘Control’ button if only one ‘Control’ button is pressed.)
+   +  Also interesting modification of the first option with exchanged 'Shift' and 'Alt' keys.
   2. PC Keyboard — Fn-F12-F11 + F2 = 2
   3. MacOS Keyboard — Fn-F12-F11 + F3 = 3
   4. PC Keyboard mod 2 — Fn-F12-F11 + F4 = 4
