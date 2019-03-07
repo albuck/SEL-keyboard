@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
-  title: SEL Keyboard
+title: SEL Keyboard
