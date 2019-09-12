@@ -1,11 +1,11 @@
 [Read in English](README.md)
 
 -----------------------------------------------
-# STANDARTINĖ ERGONOMIŠKO IŠDĖSTYMO KLAVIATŪRA arba PAVYZDINIS TOGINIO IŠDĖSTYMO SPAUDYNAS
+# STANDARTINĖ ERGONOMIŠKO MYGTUKŲ IŠDĖSTYMO KLAVIATŪRA arba PAVYZDINIS TOGINIO MYGTUKŲ IŠDĖSTYMO SPAUDYNAS
 
 _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtukų išdėstymo trūkumus._
 
-+ Standartinė ergonomiško išdėstymo kompiuterio klaviatūra (spaudynas) turi 90 mygtukų (48 iš kurių yra spausdinamųjų ženklų mygtukai).
++ Standartinė ergonomiško mygtukų išdėstymo kompiuterio klaviatūra (spaudynas) turi 90 mygtukų (48 iš kurių yra spausdinamųjų ženklų mygtukai).
 + Kairioji ir dešinioji spaudyno skiltys yra pakreiptos 14° į vidų nuo pagrindo (galėtų būti gaminama ir su kiek keičiamu pakreipimo laipsniu).
 + Spaudynas tinka staliniam bei nešiojamam kompiuteriui.
 + Spaudyno naudotojas turėtų turėti galimybę sukeitinėti mygtukus vietomis ir išsaugoti savo parinktis.
@@ -13,7 +13,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 ![SEL Keyboard](img/sel.png)
 
-+ Paveikslėlyje parodytas standartinis QWERTY išdėstymas.
++ Paveikslėlyje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
 
 
 -----------------------------------------------
