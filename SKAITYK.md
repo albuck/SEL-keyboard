@@ -66,7 +66,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 #### Naudingos nuorodos:
 
-[Lietuviškas ergonomiškas klaviatūros spausdinamųjų ženklų išdėstymas „Ratisė“](https://albuck.github.io/Ratise-layout/)
+[Lietuviškas ergonomiškas klaviatūros išdėstymas „Ratisė“](https://albuck.github.io/Ratise-layout/)
 
 [Alternative Keyboard Layouts (angliškai)](http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html)
 
