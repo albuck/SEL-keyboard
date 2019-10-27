@@ -17,7 +17,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 ![SEL Ratise](img/sel_ratise.png)
 
-+ Antrame paveikslėlyje SEL klaviatūroje lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/).
++ Antrame paveikslėlyje SEL klaviatūroje — lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/).
 
 
 -----------------------------------------------
