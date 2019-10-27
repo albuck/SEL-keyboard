@@ -15,6 +15,10 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 + Paveikslėlyje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
 
+![SEL Ratise](img/sel_ratise.png)
+
++ Antrame paveikslėlyje SEL klaviatūra su lietuvišku išdėstymu Ratisė.
+
 
 -----------------------------------------------
 ### Valdiklių parinktiniai eiliškumai
