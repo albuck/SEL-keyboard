@@ -13,11 +13,11 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 ![SEL Keyboard](img/sel.png)
 
-+ Paveikslėlyje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
++ Pirmame paveikslėlyje SEL klaviatūroje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
 
 ![SEL Ratise](img/sel_ratise.png)
 
-+ Antrame paveikslėlyje SEL klaviatūra su lietuvišku išdėstymu Ratisė.
++ Antrame paveikslėlyje SEL klaviatūroje lietuviškas išdėstymas Ratisė.
 
 
 -----------------------------------------------
