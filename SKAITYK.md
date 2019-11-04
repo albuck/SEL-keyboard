@@ -91,7 +91,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Shift_ — ⇧ — Au/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas.
 - _Space_ — Trp — Tarpas — Tarpo mygtukas.
 - _Tab_ — ↹ — At — Atitraukti — Atitraukimo mygtukas.
-- _Windows/Apple/OS/Command/Cmd/Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vad (?) — Vesti/Vadas/Vėliava (?) — Vadovavimo/Vėliavos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
+- _Windows/Apple/OS/Command/Cmd/Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vad (?) — Vesti/Vadas/Vėliava/Vaduva (?) — Vadovavimo/Vėliavos/Vaduvos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
 
 -----------------------------------------------
 
