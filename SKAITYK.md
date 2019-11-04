@@ -79,7 +79,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _End_ — ⇲ — Baig/Bg — Baiga — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
 - _Enter_ — ⏎ / ↵ — Įv — Įvesti — Įvedimo mygtukas
 - _Esc_ — ⎋ — Iš — Išeiti — Išėjimo mygtukas
-- _F1…_ — V1… — Veikti 1 … — Veikimų mygtukas
+- _F1…_ — V1… — Veikti/Veikimas  1 … — Veikimų mygtukai
 - _Home_ — ⇱ — Prad/Pr — Pradžia — Pradžios mygtukas
 - _Insert_ — ⎀ (?) — Įt/Įtrp — Įterpti — Įterpimo mygtukas
 - _Num Lock_ — ⇭ — Sktm — Skaitmenys — Skaitmenų įjungimo mygtukas
