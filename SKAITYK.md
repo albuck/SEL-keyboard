@@ -81,7 +81,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Esc / Escape_ — ⎋ — Iš/Išt — Išeiti — Išėjimo mygtukas. (Pastaba: šio mygtuvo vertimas kaip „Grįžti(Gr)“ yra klaidingas (klaidinantis), nes taip apibūdintinas veikimas tinka tik kai kuriais, atskirais, šio mygtuko veikimo atvejais, kuriais paprastai tinka ir „išeiti“ nusakymas. Kitaip sakant, mygtukas „Išeiti“ pabrėžia, kad juo yra „išeinama“ iš esamuoju laiku vykdomos veiklos ar būsenos, o „grįžimas“ į ankstesnę veiklą ar būseną yra antraeilis dalykas, tuo metu ne pats svarbiausias ir dažnai neapibrėžtas (kur bus grįžta).)
 - _F1…_ — V1… — Veikti/Veikimas  1 … — Veikimų mygtukai.
 - _Home_ — ⇱ — Prad/Prd — Pradžia — Pradžios mygtukas.
-- _Insert / Ins_ — ⎀ (?) — Įt/Įtrp — Įterpti — Įterpimo mygtukas.
+- _Insert / Ins_ — ⎀ (?) — Įt/Int/Įtrp — Įterpti/Interpti — Įterpimo mygtukas.
 - _Numlock / Num Lock / Numeric Lock_ — ⇭ — Sktm/SkĮj — Skaitmenys — Skaitmenų įjungimo mygtukas.
 - _Page Down / PgDn_ — ⎘ / ⇟ — PsŽ/PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
 - _Page Up / PgUp_ — ⎗ / ⇞ — PsA/PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
