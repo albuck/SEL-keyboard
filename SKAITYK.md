@@ -70,27 +70,27 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 **Siūlymai:
 
-Space — Trp — Tarpas — Tarpo mygtukas
-Enter — Įv — Įvesti — Įvedimo mygtukas
-Shift — Au/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas
-Alt — Kit/Ktp — Kitaip / Kitoks įvedimas — Kitokio įvedimo mygtukas
-AltGr — KitŽ/Lyg3 — Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas
-Caps Lock — Did/Didž/DĮ/DRĮ — Didžiosios — Didžiųjų raidžių įjungimas — Didžiųjų raidžių įvedimo įjungimo mygtukas
-Tab — At — Atitraukti — Atitraukimo mygtukas
-Ctrl — Vld/Vald — Valdyti — Valdymo mygtukas
-Esc — Iš — Išeiti — Išėjimo mygtukas
-F1… — V1… — Veikti 1 … — Veikimų mygtukas
-Num Lock — Sktm — Skaitmenys — Skaitmenų įjungimo mygtukas
-Print Scrn — Sp/Spsd — Spausdinti — Spausdinimo mygtukas
-Insert — Įt/Įtrp — Įterpti — Įterpimo mygtukas
-Backspace — Trn/Trnt — Trinti — Trynimo atgal mygtukas
-Delete — Šal/Šlnt — Šalinti — Šalinimo mygtukas
-Scrol Lock — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas
-Home — Prad/Pr — Pradžia — Pradžios mygtukas
-End — Baig/Bg — Baiga — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
-Pause — Prtr — Pertrauka — Pertraukos mygtukas
-Page Up — PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas
-Page Down — PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas
+- Alt — Kit/Ktp — Kitaip / Kitoks įvedimas — Kitokio įvedimo mygtukas
+- AltGr — KitŽ/Lyg3 — Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas
+- Backspace — Trn/Trnt — Trinti — Trynimo atgal mygtukas
+- Caps Lock — Did/Didž/DĮ/DRĮ — Didžiosios — Didžiųjų raidžių įjungimas — Didžiųjų raidžių įvedimo įjungimo mygtukas
+- Ctrl — Vld/Vald — Valdyti — Valdymo mygtukas
+- Delete — Šal/Šlnt — Šalinti — Šalinimo mygtukas
+- End — Baig/Bg — Baiga — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
+- Enter — Įv — Įvesti — Įvedimo mygtukas
+- Esc — Iš — Išeiti — Išėjimo mygtukas
+- F1… — V1… — Veikti 1 … — Veikimų mygtukas
+- Home — Prad/Pr — Pradžia — Pradžios mygtukas
+- Insert — Įt/Įtrp — Įterpti — Įterpimo mygtukas
+- Num Lock — Sktm — Skaitmenys — Skaitmenų įjungimo mygtukas
+- Page Down — PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas
+- Page Up — PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas
+- Pause — Prtr — Pertrauka — Pertraukos mygtukas
+- Print Scrn — Sp/Spsd — Spausdinti — Spausdinimo mygtukas
+- Scrol Lock — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas
+- Shift — Au/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas
+- Space — Trp — Tarpas — Tarpo mygtukas
+- Tab — At — Atitraukti — Atitraukimo mygtukas
 
 -----------------------------------------------
 
