@@ -78,7 +78,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Delete / Del_ — ⌦ — Šal/Šlnt — Šalinti — Šalinimo mygtukas.
 - _End_ — ⇲ — Baig/Bg — Baiga — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
 - _Enter / Return_ — ⏎ / ↵ — Įv — Įvesti — Įvedimo mygtukas.
-- _Esc / Escape_ — ⎋ — Iš/Išt — Išeiti — Išėjimo mygtukas.
+- _Esc / Escape_ — ⎋ — Iš/Išt — Išeiti — Išėjimo mygtukas (Pastaba: šio mygtuvo vertimas kaip „Grįžti(Gr)“ yra klaidingas, nes taip apibūdintinas veikimas tinka tik kai kuriais, atskirais, šio mygtuko veikimo atvejais, kuriais paprastai tinka ir „išeiti“ nusakymas. Kitaip sakant, mygtukas „Išeiti“ pabrėžia, kad juo yra „išeinama“ iš esamuoju laiku vykdomos veiklos ar būsenos, o „grįžimas“ į ankstesnę veiklą ar būseną yra antraeilis dalykas, tuo metu ne pats svarbiausias.)
 - _F1…_ — V1… — Veikti/Veikimas  1 … — Veikimų mygtukai.
 - _Home_ — ⇱ — Prad/Prd — Pradžia — Pradžios mygtukas.
 - _Insert_ — ⎀ (?) — Įt/Įtrp — Įterpti — Įterpimo mygtukas.
