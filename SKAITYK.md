@@ -70,28 +70,28 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 **Siūlymai:**
 
-- _Alt_ — ⎇ — Kit/Ktp — Kitaip / Kitoks įvedimas — Kitokio įvedimo mygtukas.
-- _AltGr_ — ⌥ / ⇮ — KitŽ/Lyg3 — Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas.
+- _Alt_ — ⎇ — Kit/Ktp — Kitaip / Kitoks / Kitas įvedimas — Kitokio įvedimo mygtukas.
+- _AltGr_ — ⌥ / ⇮ — KitŽ/Lyg3 — Kitas / Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas.
 - _Backspace_ — ⌫ — Trn/Trnt — Trinti — Trynimo atgal mygtukas.
-- _Caps Lock_ — ⇪ — Did/Didž/DĮ/DRĮ — Didžiosios — Didžiųjų raidžių įjungimas — Didžiųjų raidžių įvedimo įjungimo mygtukas.
+- _Caps Lock_ — ⇪ — Did/Didž//DidĮj/DĮ/DRĮ — Didžiosios — Didžiųjų raidžių įjungimas — Didžiųjų raidžių įvedimo įjungimo mygtukas.
 - _Ctrl_ — ⎈ — Vld/Vald — Valdyti — Valdymo mygtukas.
 - _Delete_ — ⌦ — Šal/Šlnt — Šalinti — Šalinimo mygtukas.
 - _End_ — ⇲ — Baig/Bg — Baiga — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
 - _Enter_ — ⏎ / ↵ — Įv — Įvesti — Įvedimo mygtukas.
-- _Esc_ — ⎋ — Iš — Išeiti — Išėjimo mygtukas.
+- _Esc_ — ⎋ — Iš/Išt — Išeiti — Išėjimo mygtukas.
 - _F1…_ — V1… — Veikti/Veikimas  1 … — Veikimų mygtukai.
-- _Home_ — ⇱ — Prad/Pr — Pradžia — Pradžios mygtukas.
+- _Home_ — ⇱ — Prad/Prd — Pradžia — Pradžios mygtukas.
 - _Insert_ — ⎀ (?) — Įt/Įtrp — Įterpti — Įterpimo mygtukas.
-- _Num Lock_ — ⇭ — Sktm — Skaitmenys — Skaitmenų įjungimo mygtukas.
-- _Page Down_ — ⎘ / ⇟ — PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
-- _Page Up_ — ⎗ / ⇞ — PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
+- _Num Lock_ — ⇭ — Sktm/SkĮj — Skaitmenys — Skaitmenų įjungimo mygtukas.
+- _Page Down_ — ⎘ / ⇟ — PsŽ/PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
+- _Page Up_ — ⎗ / ⇞ — PsA/PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
 - _Pause/Break_ — ⎉ / ⎊ — Prtr — Pertrauka — Pertraukos mygtukas.
 - _Print Scrn_ — ⎙ — Sp/Spsd — Spausdinti — Vaizdo spausdinimo mygtukas.
 - _Scrol Lock_ — ⇳ — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas.
-- _Shift_ — ⇧ — Au/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas.
+- _Shift_ — ⇧ — Au/Aukšt/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas.
 - _Space_ — Trp — Tarpas — Tarpo mygtukas.
-- _Tab_ — ↹ — At — Atitraukti — Atitraukimo mygtukas.
-- _Windows/Apple/OS/Command/Cmd/Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vad (?) — Vesti/Vadas/Vėliava/Vaduva (?) — Vadovavimo/Vėliavos/Vaduvos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
+- _Tab_ — ↹ — At/Att — Atitraukti — Atitraukimo mygtukas.
+- _Windows/Apple/OS/Command/Cmd/Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vest/Vad/Vlv/Vdv (?) — Vesti/Vadas/Vėliava/Vaduva (?) — Vadovavimo/Vėliavos/Vaduvos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
 
 -----------------------------------------------
 
