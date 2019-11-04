@@ -83,15 +83,15 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Home_ — ⇱ — Prad/Prd — Pradžia — Pradžios mygtukas.
 - _Insert_ — ⎀ (?) — Įt/Įtrp — Įterpti — Įterpimo mygtukas.
 - _Numlock / Num Lock / Numeric Lock_ — ⇭ — Sktm/SkĮj — Skaitmenys — Skaitmenų įjungimo mygtukas.
-- _Page Down_ — ⎘ / ⇟ — PsŽ/PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
-- _Page Up_ — ⎗ / ⇞ — PsA/PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
+- _Page Down / PgDn_ — ⎘ / ⇟ — PsŽ/PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
+- _Page Up / PgUp_ — ⎗ / ⇞ — PsA/PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
 - _Pause/Break_ — ⎉ / ⎊ — Prtr — Pertrauka — Pertraukos mygtukas.
 - _Print Screen / Print Scrn / Prnt Scrn / PrtScrn / PrtScn / PrtScr / PrtSc / PrSc_ — ⎙ — Sp/Spsd/SpVzd — Spausdinti — Vaizdo spausdinimo mygtukas.
-- _Scrol Lock_ — ⇳ — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas.
+- _Scrol Lock / ScrLk_ — ⤓ / ⇳ — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas.
 - _Shift_ — ⇧ — Au/Aukšt/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas.
 - _Spacebar / Space / Space bar_ — Trp — Tarpas — Tarpo mygtukas.
 - _Tab / Tabular / Tabulator_ — ↹ — At/Att — Atitraukti — Atitraukimo mygtukas.
-- _Windows / Apple / OS / Command / Cmd / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vest/Vad/Vlv/Vdv (?) — Vesti/Vadas/Vėliava/Vaduva (?) — Vadovavimo/Vėliavos/Vaduvos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
+- _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vst/Vest/Vad/Vlv/Vdv (?) — Vesti/Vadas/Vėliava/Vaduva (?) — Vadovavimo/Vėliavos/Vaduvos/Perkeitimo(?: ‘meta-’) mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
 
 -----------------------------------------------
 
