@@ -85,8 +85,8 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Num Lock_ — ⇭ — Sktm — Skaitmenys — Skaitmenų įjungimo mygtukas
 - _Page Down_ — ⎘ / ⇟ — PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas
 - _Page Up_ — ⎗ / ⇞ — PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas
-- _Pause/Break_ — Prtr — Pertrauka — Pertraukos mygtukas
-- _Print Scrn_ — Sp/Spsd — Spausdinti — Spausdinimo mygtukas
+- _Pause/Break_ — ⎉ / ⎊ — Prtr — Pertrauka — Pertraukos mygtukas
+- _Print Scrn_ — ⎙ — Sp/Spsd — Spausdinti — Spausdinimo mygtukas
 - _Scrol Lock_ — ⇳ — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas
 - _Shift_ — ⇧ — Au/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas
 - _Space_ — Trp — Tarpas — Tarpo mygtukas
