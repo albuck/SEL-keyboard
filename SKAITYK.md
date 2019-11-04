@@ -68,7 +68,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 -----------------------------------------------
 ## Lietuviški valdymo mygtukų pavadinimai
 
-**Siūlymai:
+**Siūlymai:**
 
 - _Alt_ — Kit/Ktp — Kitaip / Kitoks įvedimas — Kitokio įvedimo mygtukas
 - _AltGr_ — KitŽ/Lyg3 — Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas
