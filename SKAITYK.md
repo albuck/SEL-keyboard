@@ -74,7 +74,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _AltGr / Alternative Graphic_ — ⌥ / ⇮ — KitŽ/Lyg3 — Kitkas / Kitoks Ženklas / Trečiasis lygis — Kitokio ženklo įvedimo mygtukas / Trečiojo lygio ženklo įvedimo mygtukas.
 - _Backspace_ — ⌫ — Trn/Trnt — Trinti/Trinà — Trynimo atgal mygtukas.
 - _Caps Lock / Caps_ — ⇪ — Did/Didž//DidĮj/DĮ/DRĮ — Didžiosios — Didžiųjų raidžių įjungimas — Didžiųjų raidžių įvedimo įjungimo mygtukas.
-- _Ctrl / Control_ — ⎈ — Vld/Vald — Valdyti/Valda — Valdymo mygtukas.
+- _Ctrl / Control_ — ⎈ — Vld/Vald — Valdyti/Valda/Val̃das — Valdymo mygtukas.
 - _Delete / Del_ — ⌦ — Šal/Šlnt — Šalinti/Šalinis — Šalinimo mygtukas.
 - _End_ — ⇲ — Baig/Bg — Baiga/Baigas — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
 - _Enter / Return_ — ⏎ / ↵ — Įv — Įvesti/Įvada — Įvedimo mygtukas.
