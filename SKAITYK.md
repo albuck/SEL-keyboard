@@ -26,7 +26,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 + Galimos valdiklių eiliškumo parinktys:
 
   1. SEL Klaviatūra — Fn-F12-F11 + F1 = 1 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
-     + Dar įdomus būtų pasirinkimas su sukeistais 'Shift' ir 'Alt' (ar 'Cmd') mygtukais.
+     + Dar įdomus būtų pasirinkimas su sukeistais 'Shift' ir 'Alt' ar 'Cmd' mygtukais.
   2. PC Klaviatūra — Fn-F12-F11 + F2 = 2
   3. MacOS Klaviatūra — Fn-F12-F11 + F3 = 3
   4. PC Klaviatūra mod 2 — Fn-F12-F11 + F4 = 4
@@ -92,6 +92,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Spacebar / Space / Space bar_ — Trp — Tarpas — Tarpo mygtukas.
 - _Tab / Tabular / Tabulator_ — ↹ — At/Att — Atitraukti — Atitraukimo mygtukas.
 - _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vad/Vdv — Vadas/Vada/Vaduva — Vadovavimo/Vadós/Vaduvos/Vėliavos mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
+- _Meniu_ — ≣ — Sąr/Srš — Sąrašas/Sąraštis — Sąryšinio sąrašo ("Meniu") mygtukas, paprastai atkartoja pelės dešiniuoju mygtuku po pelės žymekliu gaunamą sąryšinį sąrašą tam tikrų galimų veiksmų tam tikroje vaizdinės sąsajos vietoje.
 - _Hyper / Office (naujose MS klaviatūrose)_ — Vst — Vistas — Vienas mygtukas atstojantis visų kitų keitimo mygtukų paspaudimą, paprastai naudojamas įvairiems asmeniškiems klaviatūros raktams.
 
 -----------------------------------------------
