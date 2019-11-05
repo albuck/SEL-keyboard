@@ -80,8 +80,10 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Enter / Return_ — ⏎ / ↵ — Įv — Įvesti — Įvedimo mygtukas.
 - _Esc / Escape_ — ⎋ — Iš/Išt — Išeiti — Išėjimo mygtukas. (Pastaba: šio mygtuvo vertimas kaip „Grįžti(Gr)“ yra klaidingas (klaidinantis), nes taip apibūdintinas veikimas tinka tik kai kuriais, atskirais, šio mygtuko veikimo atvejais, kuriais paprastai tinka ir „išeiti“ nusakymas. Kitaip sakant, mygtukas „Išeiti“ pabrėžia, kad juo yra „išeinama“ iš esamuoju laiku vykdomos veiklos ar būsenos, o „grįžimas“ į ankstesnę veiklą ar būseną yra antraeilis dalykas, tuo metu ne pats svarbiausias ir dažnai neapibrėžtas (kur bus grįžta).)
 - _F1…_ — V1… — Veikti/Veikimas  1 … — Veikimų mygtukai.
+- _Hyper / Office (naujose MS klaviatūrose)_ — Vst — Vistas — Vienas mygtukas atstojantis visų kitų keitimo mygtukų paspaudimą, paprastai naudojamas įvairiems asmeniškiems klaviatūros raktams.
 - _Home_ — ⇱ — Prad/Prd — Pradžia — Pradžios mygtukas.
 - _Insert / Ins_ — ⎀ (?) — Įt/Int/Įtrp — Įterpti/Interpti — Įterpimo mygtukas.
+- _Menu_ — ≣ — Sąr/Srš — Sąrašas/Sąraštis — Sąryšinio sąrašo ("Meniu") mygtukas, paprastai atkartoja pelės dešiniuoju mygtuku po pelės žymekliu gaunamą sąryšinį sąrašą tam tikrų galimų veiksmų tam tikroje vaizdinės sąsajos vietoje.
 - _Numlock / Num Lock / Numeric Lock_ — ⇭ — Sktm/SkĮj — Skaitmenys — Skaitmenų įjungimo mygtukas.
 - _Page Down / PgDn_ — ⎘ / ⇟ — PsŽ/PŽ — Puslapis žemyn — Tolesnio puslapio mygtukas.
 - _Page Up / PgUp_ — ⎗ / ⇞ — PsA/PA — Puslapis aukštyn — Ankstesnio puslapio mygtukas.
@@ -92,8 +94,6 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Spacebar / Space / Space bar_ — Trp — Tarpas — Tarpo mygtukas.
 - _Tab / Tabular / Tabulator_ — ↹ — At/Att — Atitraukti — Atitraukimo mygtukas.
 - _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vad/Vdv — Vadas/Vada/Vaduva — Vadovavimo/Vadós/Vaduvos/Vėliavos mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
-- _Menu_ — ≣ — Sąr/Srš — Sąrašas/Sąraštis — Sąryšinio sąrašo ("Meniu") mygtukas, paprastai atkartoja pelės dešiniuoju mygtuku po pelės žymekliu gaunamą sąryšinį sąrašą tam tikrų galimų veiksmų tam tikroje vaizdinės sąsajos vietoje.
-- _Hyper / Office (naujose MS klaviatūrose)_ — Vst — Vistas — Vienas mygtukas atstojantis visų kitų keitimo mygtukų paspaudimą, paprastai naudojamas įvairiems asmeniškiems klaviatūros raktams.
 
 -----------------------------------------------
 
