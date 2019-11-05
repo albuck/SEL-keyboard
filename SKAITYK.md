@@ -92,7 +92,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Scrol Lock / ScrLk_ — ⤓ / ⇳ — Sln/Slnk — Slinkti — Slinkties įjungimo mygtukas.
 - _Shift_ — ⇧ — Au/Aukšt/Lyg2 — Aukštesnis lygis / Antrasis lygis — Aukštesnio lygio ženklas / Antrojo lygio ženklas.
 - _Spacebar / Space / Space bar_ — Trp — Tarpas — Tarpo mygtukas.
-- _Tab / Tabular / Tabulator_ — ↹ — At/Att — Atitraukti/Įtrauka — Atitraukimo/įtraukos mygtukas.
+- _Tab / Tabular / Tabulator_ — ↹ — At/Att — Atitraukti/Atitrauka/Įtrauka — Atitraukimo/įtraukos mygtukas.
 - _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vad/Vdv — Vadas/Vada/Vaduva — Vadovavimo/Vadós/Vaduvos/Vėliavos mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
 
 -----------------------------------------------
