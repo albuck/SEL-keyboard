@@ -17,7 +17,7 @@ _This layout was designed to remove the defects in the layout of conventional st
 
 ![SEL Keyboard Dvorak](img/sel_dvorak.png)
 
-+ The second image shows the Dvorak layout.
++ The second image shows the Dvorak layout (m-dash added to the free key).
 
 
 -----------------------------------------------
