@@ -13,11 +13,11 @@ _This layout was designed to remove the defects in the layout of conventional st
 
 ![SEL Keyboard QWERTY](img/sel.png)
 
-+ The image shows the QWERTY layout.
++ The first image shows the QWERTY layout.
 
 ![SEL Keyboard Dvorak](img/sel_dvorak.png)
 
-+ The image shows the Dvorak layout.
++ The second image shows the Dvorak layout.
 
 
 -----------------------------------------------
