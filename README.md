@@ -11,9 +11,13 @@ _This layout was designed to remove the defects in the layout of conventional st
 + The user of the keyborad can exchange the keys and save the chosen option.
 
 
-![SEL Keyboard](img/sel.png)
+![SEL Keyboard QWERTY](img/sel.png)
 
-+ The image shows the standard QWERTY layout.
++ The image shows the QWERTY layout.
+
+![SEL Keyboard Dvorak](img/sel.png)
+
++ The image shows the Dvorak layout.
 
 
 -----------------------------------------------
