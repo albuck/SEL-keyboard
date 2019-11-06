@@ -15,7 +15,7 @@ _This layout was designed to remove the defects in the layout of conventional st
 
 + The image shows the QWERTY layout.
 
-![SEL Keyboard Dvorak](img/sel.png)
+![SEL Keyboard Dvorak](img/sel_dvorak.png)
 
 + The image shows the Dvorak layout.
 
