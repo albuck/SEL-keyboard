@@ -72,10 +72,10 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 - _Alt / Alternative_ (angliškai) — ⎇ (mygtuko ženkliukas) — Kit/Ktp (lietuviški trumpiniai) — Kitaipa-Kitaipis-Kitaipinti (mygtuko veiksmas, vadinimas, veiksmažodis) — Kitoks įvedimas; Kitokio įvedimo mygtukas (mygtuko apibrėžimas, paaiškinimas ir pan.).
 - _AltGr / Alternative Graphic_ — ⌥ / ⇮ — Ktk/KitŽ/Lyg3 — Kitka-Kitkis-Kitkinti — Kitoks Ženklas; Trečiasis lygis; Kitokio ženklo įvedimo mygtukas; Trečiojo lygio ženklo įvedimo mygtukas.
-- _Backspace_ — ⌫ — Trn/Trnt — Trina-Trinis-Trinti — Trynimo atgal mygtukas.
+- _Backspace_ — ⌫ — Trn/Trnt — Trina-Trinis-Trinti — Trynimo atgal mygtukas, šalinimo-naikinimo iš kairės (nuo žymeklio vietos tekste) mygtukas.
 - _Caps Lock / Caps_ — ⇪ — Did/Didž//DidĮj/DĮ/DRĮ — Didžia-Didžis-Didžinti — Didžiųjų raidžių įjungimas; Didžiųjų raidžių įvedimo įjungimo mygtukas.
 - _Ctrl / Control_ — ⎈ — Vld/Vald — Valda-Val̃dis-Valdinti — Valdymo mygtukas.
-- _Delete / Del_ — ⌦ — Šal/Šlnt — Šala-Šalinis-Šalinti — Šalinimo mygtukas.
+- _Delete / Del_ — ⌦ — Šal/Šlnt — Šala-Šalinis-Šalinti — Šalinimo mygtukas, šalinimo-naikinimo iš dešinės (nuo žymeklio vietos tekste) mygtukas.
 - _End_ — ⇲ — Baig/Bg — Baiga-Baigis-Baiginti — (Pa)Baigos mygtukas (šičia, manau, reikėtų vengti „pa-“ priešdėlio dėl didesnės pavadinimo atskyros nuo „Prad“).
 - _Enter / Return_ — ⏎ / ↵ — Įv — Įvada-Įvadis-Įvesti — Įvedimo mygtukas.
 - _Esc / Escape_ — ⎋ — Iš — Iša-Išis-Išeiti — Išėjimo mygtukas. (Pastaba: šio mygtuvo vertimas kaip „Grįžti(Gr)“ yra klaidingas (klaidinantis), nes taip apibūdintinas veikimas tinka tik kai kuriais, atskirais, šio mygtuko veikimo atvejais, kuriais paprastai tinka ir „išeiti“ nusakymas. Kitaip sakant, mygtukas „Išeiti“ pabrėžia, kad juo yra „išeinama“ iš esamuoju laiku vykdomos veiklos ar būsenos, o „grįžimas“ į ankstesnę veiklą ar būseną yra antraeilis dalykas, tuo metu ne pats svarbiausias ir dažnai neapibrėžtas (kur bus grįžta).)
