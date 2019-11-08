@@ -80,7 +80,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 - _Enter / Return_ — ⏎ / ↵ — Įv — Įvada-Įvadis-Įvesti — Įvedimo mygtukas.
 - _Esc / Escape_ — ⎋ — Iš — Iša-Išis-Išeiti — Išėjimo mygtukas. (Pastaba: šio mygtuvo vertimas kaip „Grįžti(Gr)“ yra klaidingas (klaidinantis), nes taip apibūdintinas veikimas tinka tik kai kuriais, atskirais, šio mygtuko veikimo atvejais, kuriais paprastai tinka ir „išeiti“ nusakymas. Kitaip sakant, mygtukas „Išeiti“ pabrėžia, kad juo yra „išeinama“ iš esamuoju laiku vykdomos veiklos ar būsenos, o „grįžimas“ į ankstesnę veiklą ar būseną yra antraeilis dalykas, tuo metu ne pats svarbiausias ir dažnai neapibrėžtas (kur bus grįžta).)
 - _F1…_ — V1… — Veika-Veikis-Veikinti  1 … — Veikimų mygtukai.
-- _Hyper / Office (naujose MS klaviatūrose)_ — Vst — Vista-Vistis-Visti? — Vienas mygtukas atstojantis visų kitų keitimo mygtukų paspaudimą, paprastai naudojamas įvairiems asmeniškiems klaviatūros raktams.
+- _Hyper / Office (naujose MS klaviatūrose)_ — Vst — Vista-Vistis-Vistinti — Vienas mygtukas atstojantis visų kitų keitimo mygtukų paspaudimą, paprastai naudojamas įvairiems asmeniškiems klaviatūros raktams.
 - _Home_ — ⇱ — Prad/Prd — Pradžia-Pradžis-Pradžinti / Prada-Pradis-Pradinti — Pradžios mygtukas.
 - _Insert / Ins_ — ⎀ (?) — Įt/Įtrp — Įtarpa-Įtarpis-Įterpti — Įterpimo mygtukas.
 - _Menu_ — ≣ — Sąr/Srš — Sąraša?-Sąraštis?-? — Sąryšinio sąrašo ("Meniu") mygtukas, paprastai atkartoja pelės dešiniuoju mygtuku po pelės žymekliu gaunamą sąryšinį sąrašą tam tikrų galimų veiksmų tam tikroje vaizdinės sąsajos vietoje.
