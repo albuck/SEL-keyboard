@@ -67,7 +67,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 -----------------------------------------------
 
-## Compact version of the layout
+## Compact version of the SEL keyboard layout
 
 Compact layout for a small laptop computer when full LEK keyboard does not fit.
 
