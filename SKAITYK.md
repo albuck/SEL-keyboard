@@ -66,6 +66,20 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 ![SEL Keyboard enhanced ergonomics](img/sel_enhanced.png)
 
 -----------------------------------------------
+
+## Glaudus LEK išdėstymas
+
+Glaudesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), kai pilnas išdėstymas netelpa.
+
+![SEL Keyboard small factor](img/sel_s.png)
+
++ Glaudus išdėstymas mažam nešiojamam kompiuteriui.
+
+![SEL Keyboard extra small faftor](img/sel_xs.png)
+
++ Glaudus išdėstymas labai mažam nešiojamam kompiuteriui.
+
+-----------------------------------------------
 ## Lietuviški valdymo/keitimo mygtukų pavadinimai
 
 **Siūlymai:**
