@@ -67,6 +67,21 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 -----------------------------------------------
 
+## Compact version of the layout
+
+Compact layout for a small laptop computer when full LEK keyboard does not fit.
+
+![SEL Keyboard enhanced ergonomics](img/sel_s.png)
+
++ Compact layout for small factor laptop.
+
+![SEL Keyboard enhanced ergonomics](img/sel_xs.png)
+
++ Compact layout for extra small factor laptop.
+
+
+-----------------------------------------------
+
 #### Useful links:
 
 [Alternative Keyboard Layouts](http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html)
