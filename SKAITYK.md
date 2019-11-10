@@ -67,7 +67,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 -----------------------------------------------
 
-## Glaudus LEK išdėstymas
+## Glaudus SEL spaudyno išdėstymas
 
 Glaudesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), kai pilnas išdėstymas netelpa.
 
