@@ -69,7 +69,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 ## Compact version of the SEL keyboard layout
 
-Compact layout for a small laptop computer (and etc) when full LEK keyboard (14 cm × 36 cm) does not fit.
+Compact layout for a small laptop computer (and etc) when full SEL keyboard (14 cm × 36 cm) does not fit.
 
 ![SEL Keyboard small factor](img/sel_s.png)
 
