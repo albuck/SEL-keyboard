@@ -69,15 +69,15 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 ## Glaudus SEL spaudyno išdėstymas
 
-Glaudesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), kai pilnas išdėstymas netelpa.
+Glaudesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), kai pilnas išdėstymas (14 cm × 36 cm) netelpa.
 
 ![SEL Keyboard small factor](img/sel_s.png)
 
-+ Glaudus išdėstymas mažam nešiojamam kompiuteriui.
++ Glaudus išdėstymas (14 cm × 32 cm) mažam nešiojamam kompiuteriui.
 
 ![SEL Keyboard extra small faftor](img/sel_xs.png)
 
-+ Glaudus išdėstymas labai mažam nešiojamam kompiuteriui.
++ Glaudus išdėstymas (14 cm × 30 cm) labai mažam nešiojamam kompiuteriui.
 
 -----------------------------------------------
 ## Lietuviški valdymo/keitimo mygtukų pavadinimai
