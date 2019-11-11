@@ -81,7 +81,7 @@ Compact layout for a small laptop computer (and etc) when full SEL keyboard (14 
 
 ### Compact folding version
 
-[SEL Keyboard folding](img/sel_sf.png)
+![SEL Keyboard folding](img/sel_sf.png)
 
 + Compact split layout SEL-SF (14 cm × 34++ cm) for small form factor folding keyboard.
 
