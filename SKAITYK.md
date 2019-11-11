@@ -83,7 +83,7 @@ Glaustesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), ka
 
 ![SEL Keyboard folding](img/sel_sf.png)
 
-+ Glaustas skaidytas išdėstymas SEL-SF (14 cm × 34++ cm) mažoms sulenkiamoms ar skaidytoms klaviatūroms, ar išvis kiek glaustesniam SEL išdėstymui (šiuo atveju pakaktų vieno 'Fn' mygtuko).
++ Glaustas skaidytas išdėstymas SEL-SF (14 cm × 34++ cm) mažoms sulenkiamoms ar skaidytoms klaviatūroms, ar išvis kiek glaustesniam SEL išdėstymui.
 
 -----------------------------------------------
 ## Lietuviški valdymo/keitimo mygtukų pavadinimai
