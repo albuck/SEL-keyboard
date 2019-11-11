@@ -73,11 +73,11 @@ Compact layout for a small laptop computer (and etc) when full SEL keyboard (14 
 
 ![SEL Keyboard small factor](img/sel_s.png)
 
-+ Compact layout (14 cm × 32 cm) for small form factor laptop.
++ Compact layout SEL-S (14 cm × 32 cm) for small form factor laptop.
 
 ![SEL Keyboard extra small faftor](img/sel_xs.png)
 
-+ Compact layout (14 cm × 30 cm) for extra small form factor laptop.
++ Compact layout SEL-XS (14 cm × 30 cm) for extra small form factor laptop.
 
 
 -----------------------------------------------
