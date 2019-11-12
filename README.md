@@ -69,21 +69,21 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 ## Compact version of the SEL keyboard layout
 
-Compact layout for a small laptop computer (and etc) when full SEL keyboard (14 cm × 36 cm) does not fit.
+Compact layout for a small laptop computer (and etc) when a full SEL keyboard (14 cm × 36 cm) does not fit.
 
 ![SEL Keyboard small factor](img/sel_s.png)
 
-+ Compact layout SEL-S (14 cm × 32 cm) for small form factor laptop.
++ Compact layout SEL-S (14 cm × 32 cm) for a small form factor laptop.
 
 ![SEL Keyboard extra small](img/sel_xs.png)
 
-+ Compact layout SEL-XS (14 cm × 30 cm) for extra small form factor laptop.
++ Compact layout SEL-XS (14 cm × 30 cm) for an extra small form factor laptop.
 
 ### Compact folding version
 
 ![SEL Keyboard folding](img/sel_sf.png)
 
-+ Compact split layout SEL-SF (14 cm × 34++ cm) for small form factor folding or split keyboard or as little more compact SEL version.
++ Compact split layout SEL-SF (14 cm × 34++ cm) for a small form factor folding or split keyboard or as a little more compact SEL version.
 
 -----------------------------------------------
 
