@@ -37,6 +37,8 @@ _This layout was designed with an aim to remove the defects in the layout of con
 -----------------------------------------------
 ### SEL Keybord ergonomics
 
+There are three areas in the keyboard: left — for left hand; right — for right hand; and the middle is accessible for both hands.
+
 + Different color keys are assigned to each finger.
 + The circle of the other color shows the possibility of pressing key by another finger.
 
