@@ -37,6 +37,8 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 -----------------------------------------------
 ### Spaudyno togė (ergonomika)
 
+Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešinė — dešiniajai rankai; o vidurinė yra prieinama abiejoms rankoms.
+
 + Atskiro piršto spaudžiamam mygtukui priskirta atskira spalva.
 + Kitos spalvos skrituliukas rodo spaudimo kitu pirštu galimybę.
 
