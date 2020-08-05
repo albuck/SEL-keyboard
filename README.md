@@ -40,6 +40,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 There are three areas in the keyboard: left — for the left hand; right — for the right hand; and the middle is accessible for both hands.
 
 + Different color keys are assigned to each finger:
+
 ![Assigned finger colors](img/prst.png)
 
 + The circle of the other color shows the possibility of pressing key by another finger.
