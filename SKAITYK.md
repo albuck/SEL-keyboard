@@ -11,11 +11,11 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 + Spaudyno naudotojas turėtų turėti galimybę programiškai sukeitinėti mygtukus vietomis ir išsisaugoti savo parinktis.
 
 
-![SEL Keyboard](img/sel.png)
+![SEL spaudynas](img/sel.png)
 
 + Pirmame paveikslėlyje SEL klaviatūroje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
 
-![SEL Ratise](img/sel_ratise.png)
+![Ratisė SEL spaudyne](img/sel_ratise.png)
 
 + Antrame paveikslėlyje SEL klaviatūroje — lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/).
 
@@ -32,17 +32,20 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
   4. PC Klaviatūra mod 2 — Fn-F12-F11 + F4 = 4
   5. PC Klaviatūra mod 3 — Fn-F12-F11 + F5 = 5 — (’Meniu’ suveikia atleidžiant ‘Vald‘ mygtuką, jeigu tėra spaudžiamas tik vienas 'Vald' mygtukas.)
 
-![SEL Control layout](img/vald.png)
+![SEL Valdikliai](img/vald.png)
 
 -----------------------------------------------
 ### Spaudyno togė (ergonomika)
 
 Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešinė — dešiniajai rankai; o vidurinė yra prieinama abiejoms rankoms.
 
-+ Atskiro piršto spaudžiamam mygtukui priskirta atskira spalva.
++ Atskiro piršto spaudžiamam mygtukui priskirta atskira spalva:
+
+![Priskirtos pirštams spalvos](img/prst.png)
+
 + Kitos spalvos skrituliukas rodo spaudimo kitu pirštu galimybę.
 
-![SEL Keyboard ergonomics](img/sel_ergonomics.png)
+![SEL spaudyno toga](img/sel_ergonomics.png)
 
 -----------------------------------------------
 ### Spaudynas su galimais papildomais mygtukais
@@ -51,21 +54,21 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 + Galimi pasirinktiniai skaučiukynės išdėtymai: dešinėje pagrindinis ir kairėje du skirtingi (vienas apverstasis dešinysis).
 + Mėlynais užrašais pažymėti ‘Fn’ lygio mygtukų reikšmės.
 
-![SEL Keyboard full](img/sel_full.png)
+![Visas SEL spaudynas](img/sel_full.png)
 
 -----------------------------------------------
 ### Spaudyno apmatai
 
 + Spaudyno apmatai su įprasto dydžio mygtukais.
 
-![SEL Keyboard basic](img/sel_basic.png)
+![SEL pamatinis spaudynas](img/sel_basic.png)
 
 -----------------------------------------------
 ### Pagerinto spaudyno apmatai
 
 + Spaudyno apmatai su padidintais kai kuriais mygtukais.
 
-![SEL Keyboard enhanced ergonomics](img/sel_enhanced.png)
+![SEL pagerinta spaudyno toga](img/sel_enhanced.png)
 
 -----------------------------------------------
 
@@ -73,17 +76,17 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 Glaustesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), kai pilnas SEL išdėstymas (14 cm × 36 cm) netelpa.
 
-![SEL Keyboard small](img/sel_s.png)
+![Mažas SEL spaudynas](img/sel_s.png)
 
 + Glaustas išdėstymas SEL-S (14 cm × 32 cm) mažam nešiojamam kompiuteriui.
 
-![SEL Keyboard extra small](img/sel_xs.png)
+![Labai mažas SEL spaudynas](img/sel_xs.png)
 
 + Glaustas išdėstymas SEL-XS (14 cm × 30 cm) labai mažam nešiojamam kompiuteriui.
 
 ### Glaustas sulenkiamas išdėstymas
 
-![SEL Keyboard folding](img/sel_sf.png)
+![Sulankstomas skaidytas SEL spaudynas](img/sel_sf.png)
 
 + Glaustas skaidytas išdėstymas SEL-SF (14 cm × 34++ cm) mažoms sulenkiamoms ar skaidytoms klaviatūroms, ar išvis kiek glaustesniam SEL išdėstymui.
 
