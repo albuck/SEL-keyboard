@@ -118,7 +118,7 @@ Glaustesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), ka
 - _Shift_ — ⇧ — Au/Aukšt/Lyg2 — Aukša-Aukšis-Aukšinti — Aukštesnis lygis; Antrasis lygis; Aukštesnio lygio ženklas; Antrojo lygio ženklas.
 - _Spacebar / Space / Space bar_ — Trp — Tarpa-Tarpis-Tarpinti — Tarpo mygtukas.
 - _Tab / Tabular / Tabulator_ — ↹ — At/Att — Ata-Ãtis-Atinti — Atitraukimo, atitraukos, įtraukos mygtukas.
-- _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vad — Vada-Vadis-Vãdinti — Vadós, Vaduvos, Vėliavos mygtukas; "Operacinės sistemos", skaitmeninės aplinkos valdymo mygtukas.
+- _Windows / Apple / OS / Command / Cmd / Super / Meta key_ — ⊞ / ⌘ / ◆ / ◊ — Vad — Vada-Vadis-Vãdinti — Vadós, Vaduvos, Vėliavos mygtukas; "Operacinės (operacijų) sistemos", skaitmeninės aplinkos valdymo mygtukas.
 
 -----------------------------------------------
 
