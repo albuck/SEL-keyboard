@@ -129,5 +129,7 @@ Glaustesnis išdėstymas mažiems nešiojamiems kompiuteriams (ar panašiai), ka
 
 [Lietuviška ergonomiška klaviatūra LEKP](https://lekp.info/)
 
+[Klaviatūros išdėstymai (lietuvybė.lt)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/)
+
 [Alternative Keyboard Layouts (angliškai)](http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html)
 
