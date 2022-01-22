@@ -76,6 +76,8 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 [Glaustas SEL spaudyno išdėstymas](glaustas_sel.md)
 
+[Standartinė ergonominė klaviatūra su skersuotai išdėstytais mygtukais](skersuotas_sel.md)
+
 [Lietuviški valdymo/keitimo mygtukų pavadinimai](mygt_pavadinimai.md)
 
 -----------------------------------------------
