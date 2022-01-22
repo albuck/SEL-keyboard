@@ -76,6 +76,9 @@ There are three areas in the keyboard: left — for the left hand; right — for
 
 [Compact version of the SEL keyboard](compact_sel.md)
 
+[Standard ergonomic keyboard with staggered keys](staggered_sel.md)
+
+
 -----------------------------------------------
 
 
