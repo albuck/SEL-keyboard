@@ -21,7 +21,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 
 -----------------------------------------------
-### Optional sequences for control keys
+## Optional sequences for control keys
 
 + Available options:
 
@@ -35,7 +35,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 ![SEL Control layout](img/vald.png)
 
 -----------------------------------------------
-### SEL Keybord ergonomics
+## SEL Keybord ergonomics
 
 There are three areas in the keyboard: left — for the left hand; right — for the right hand; and the middle is accessible for both hands.
 
@@ -48,7 +48,7 @@ There are three areas in the keyboard: left — for the left hand; right — for
 ![SEL Keyboard ergonomics](img/sel_ergonomics.png)
 
 -----------------------------------------------
-### SEL Keyboard with possible additional keys
+## SEL Keyboard with possible additional keys
 
 + Optional 2, 4 or 6 programmable keys.
 + Optional NumPads are available: right main and left two different (one inverted right).
@@ -57,14 +57,14 @@ There are three areas in the keyboard: left — for the left hand; right — for
 ![SEL Keyboard full](img/sel_full.png)
 
 -----------------------------------------------
-### Key layout
+## Key layout
 
 + With standard size buttons.
 
 ![SEL Keyboard basic](img/sel_basic.png)
 
 -----------------------------------------------
-### Improved layout
+## Improved layout
 
 + With some enlarged buttons.
 
