@@ -21,7 +21,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 
 -----------------------------------------------
-### Valdiklių parinktiniai eiliškumai
+## Valdiklių parinktiniai eiliškumai
 
 + Galimos valdiklių eiliškumo parinktys:
 
@@ -35,7 +35,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 ![SEL Valdikliai](img/vald.png)
 
 -----------------------------------------------
-### Spaudyno togė (ergonomika)
+## Spaudyno togė (ergonomika)
 
 Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešinė — dešiniajai rankai; o vidurinė yra prieinama abiejoms rankoms.
 
@@ -48,7 +48,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ![SEL spaudyno toga](img/sel_ergonomics.png)
 
 -----------------------------------------------
-### Spaudynas su galimais papildomais mygtukais
+## Spaudynas su galimais papildomais mygtukais
 
 + Yra galimi programuojami papildomi 2, 4 arba 6 mygtukai.
 + Galimi pasirinktiniai skaučiukynės išdėtymai: dešinėje pagrindinis ir kairėje du skirtingi (vienas apverstasis dešinysis).
@@ -57,14 +57,14 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ![Visas SEL spaudynas](img/sel_full.png)
 
 -----------------------------------------------
-### Spaudyno apmatai
+## Spaudyno apmatai
 
 + Spaudyno apmatai su įprasto dydžio mygtukais.
 
 ![SEL pamatinis spaudynas](img/sel_basic.png)
 
 -----------------------------------------------
-### Pagerinto spaudyno apmatai
+## Pagerinto spaudyno apmatai
 
 + Spaudyno apmatai su padidintais kai kuriais mygtukais.
 
