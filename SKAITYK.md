@@ -2,6 +2,7 @@
 
 -----------------------------------------------
 # STANDARTINĖ ERGONOMIŠKO MYGTUKŲ IŠDĖSTYMO KLAVIATŪRA arba PAVYZDINIS TOGINIO MYGTUKŲ IŠDĖSTYMO SPAUDYNAS
+(apmatai)
 
 _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtukų išdėstymo trūkumus._
 
