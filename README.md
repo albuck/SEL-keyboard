@@ -1,7 +1,8 @@
 [Skaityti lietuviškai](SKAITYK.md)
 
 -----------------------------------
-# STANDARD ERGONOMIC LAYOUT KEYBOARD
+# STANDARD ERGONOMIC LAYOUT KEYBOARD 
+(draft)
 
 _This layout was designed with an aim to remove the defects in the layout of conventional standard computer keyboard._
 
