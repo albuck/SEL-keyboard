@@ -73,6 +73,14 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 -----------------------------------------------
 
+## Paslinkti stulpeliai
+
++ SEL su paslinkais stulpeliais.
+
+![SEL su paslinktais stulpeliais](img/sel_basic_column_stagger.png)
+
+-----------------------------------------------
+
 ## Papildymai:
 
 [Glaustas SEL spaudyno išdėstymas](glaustas_sel.md)
