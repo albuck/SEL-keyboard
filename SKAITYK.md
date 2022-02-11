@@ -52,7 +52,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ## Spaudynas su galimais papildomais mygtukais
 
 + Yra galimi programuojami papildomi 2, 4 arba 6 mygtukai.
-+ Galimi pasirinktiniai skaučiukynės išdėtymai: dešinėje pagrindinis ir kairėje du skirtingi (vienas apverstasis dešinysis).
++ Galimi pasirinktiniai skaičiukynės išdėstymai: dešinėje pagrindinis ir kairėje du skirtingi (vienas apverstasis dešinysis).
 + Mėlynais užrašais pažymėti ‘Fn’ lygio mygtukų reikšmės.
 
 ![Visas SEL spaudynas](img/sel-keyboard-full.png)
@@ -75,7 +75,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 ## Paslinkti stulpeliai
 
-+ SEL su paslinkais stulpeliais.
++ SEL su paslinktais stulpeliais.
 
 ![SEL su paslinktais stulpeliais](img/sel-keyboard-basic-column-stagger.png)
 
