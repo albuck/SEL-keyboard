@@ -7,6 +7,10 @@ Siekta daryti tik svarbiausius ir minimalius pakeitimus šalinant tradicinės kl
 
 ![Standartinė ergonominė klaviatūra su skersuotu mygtukų išdėstymu](img/sel-staggered-keyboard.png)
 
+Ir kita labiau įprastinė klaviatūros atmaina:
+
+![Standartinė ergonominė klaviatūra su skersuotu mygtukų išdėstymu antras variantas](img/sel-staggered-keyboard-2.png)
+
 -----------------------------------------------
 
 [Į pagrindinį puslapį](SKAITYK.md)
