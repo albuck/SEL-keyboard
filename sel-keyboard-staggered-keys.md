@@ -7,7 +7,7 @@ The goal was to make only the most important and minimal changes to address the 
 
 ![Standard Ergonomic Keyboard with staggered keys](img/sel-staggered-keyboard.png)
 
-And another more traditional variant:
+And another more traditional and a little wider variant of the keyboard:
 
 ![Standard Ergonomic Keyboard with staggered keys second variant](img/sel-staggered-keyboard-2.png)
 
