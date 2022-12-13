@@ -1,6 +1,7 @@
-[Skaityti lietuviškai](SKAITYK.md)
+[🇱🇹 Skaityti lietuviškai](SKAITYK.md)
 
 -----------------------------------
+
 # STANDARD ERGONOMIC LAYOUT KEYBOARD
 (draft)
 
@@ -20,8 +21,8 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 + The second image shows the Dvorak layout (m-dash added to the free key).
 
-
 -----------------------------------------------
+
 ## Optional sequences for control keys
 
 + Available options:
@@ -36,6 +37,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 ![SEL Control layout](img/vald.png)
 
 -----------------------------------------------
+
 ## SEL Keybord ergonomics
 
 There are three areas in the keyboard: left — for the left hand; right — for the right hand; and the middle is accessible for both hands.
@@ -49,6 +51,7 @@ There are three areas in the keyboard: left — for the left hand; right — for
 ![SEL Keyboard ergonomics](img/sel-keyboard-ergonomics.png)
 
 -----------------------------------------------
+
 ## SEL Keyboard with possible additional keys
 
 + Optional 2, 4 or 6 programmable keys.
@@ -58,6 +61,7 @@ There are three areas in the keyboard: left — for the left hand; right — for
 ![SEL Keyboard full](img/sel-keyboard-full.png)
 
 -----------------------------------------------
+
 ## Key layout
 
 + With standard size buttons.
@@ -65,6 +69,7 @@ There are three areas in the keyboard: left — for the left hand; right — for
 ![SEL Keyboard basic](img/sel-keyboard-basic.png)
 
 -----------------------------------------------
+
 ## Improved layout
 
 + With some enlarged buttons.
