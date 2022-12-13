@@ -1,4 +1,4 @@
-[Read in English](README.md)
+[🏴󠁧󠁢󠁥󠁮󠁧󠁿 Read in English](README.md)
 
 -----------------------------------------------
 # STANDARTINĖ ERGONOMIŠKO MYGTUKŲ IŠDĖSTYMO KLAVIATŪRA arba PAVYZDINIS TOGINIO MYGTUKŲ IŠDĖSTYMO SPAUDYNAS
@@ -20,8 +20,8 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 + Antrame paveikslėlyje SEL klaviatūroje — lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/).
 
-
 -----------------------------------------------
+
 ## Valdiklių parinktiniai eiliškumai
 
 + Galimos valdiklių eiliškumo parinktys:
@@ -36,6 +36,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 ![SEL Valdikliai](img/vald.png)
 
 -----------------------------------------------
+
 ## Spaudyno togė (ergonomika)
 
 Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešinė — dešiniajai rankai; o vidurinė yra prieinama abiejoms rankoms.
@@ -49,6 +50,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ![Pavyzdinės klaviatūros (spaudyno) ergonomika (toga)](img/sel-keyboard-ergonomics.png)
 
 -----------------------------------------------
+
 ## Spaudynas su galimais papildomais mygtukais
 
 + Yra galimi programuojami papildomi 2, 4 arba 6 mygtukai.
@@ -58,6 +60,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ![Visas SEL spaudynas](img/sel-keyboard-full.png)
 
 -----------------------------------------------
+
 ## Spaudyno apmatai
 
 + Spaudyno apmatai su įprasto dydžio mygtukais.
@@ -65,6 +68,7 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 ![SEL pamatinis spaudynas](img/sel-keyboard-basic.png)
 
 -----------------------------------------------
+
 ## Pagerinto spaudyno apmatai
 
 + Spaudyno apmatai su padidintais kai kuriais mygtukais.
@@ -85,12 +89,9 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 [Glaustas SEL spaudyno išdėstymas](sel-glausta-klaviatura.md)
 
-[Standartinė ergonominė klaviatūra su skersuotai išdėstytais mygtukais](sel-klaviatura-skersuoti-mygtukai.md)
-
 [Lietuviški valdymo/keitimo mygtukų pavadinimai](klaviaturos-mygtuku-pavadinimai.md)
 
 -----------------------------------------------
-
 
 ### Naudingos nuorodos:
 
