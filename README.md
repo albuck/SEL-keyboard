@@ -81,12 +81,9 @@ There are three areas in the keyboard: left — for the left hand; right — for
 
 -----------------------------------------------
 
-## Additions:
+## Addition:
 
 [Compact version of the SEL keyboard](sel-compact-keyboard.md)
-
-[Standard ergonomic keyboard with staggered keys](sel-keyboard-staggered-keys.md)
-
 
 -----------------------------------------------
 
