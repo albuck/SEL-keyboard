@@ -61,6 +61,12 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 
 -----------------------------------------------
 
+## SEL spaudyno su daugiau mygtukų atmaina
+
+![SEL spaudyno atmaina](img/sel-keyboard-variant.png)
+
+-----------------------------------------------
+
 ## Spaudyno apmatai
 
 + Spaudyno apmatai su įprasto dydžio mygtukais.
