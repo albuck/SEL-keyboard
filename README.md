@@ -62,6 +62,12 @@ There are three areas in the keyboard: left — for the left hand; right — for
 
 -----------------------------------------------
 
+## SEL Keyboard variant with more keys
+
+![SEL Keyboard full](img/sel-keyboard-variant.png)
+
+-----------------------------------------------
+
 ## Key layout
 
 + With standard size buttons.
