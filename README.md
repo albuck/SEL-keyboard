@@ -86,9 +86,14 @@ There are three areas in the keyboard: left — for the left hand; right — for
 
 ## Column stagger
 
-+ Staggered column SEL.
++ 1. Staggered column SEL.
 
 ![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
+
++ 2. Staggered column SEL.
+
+![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger-2.png)
+
 
 -----------------------------------------------
 
