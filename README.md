@@ -21,6 +21,10 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 + The second image shows the Dvorak layout (m-dash added to the free key).
 
++ Staggered column, more ergonomic variant:
+
+![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
+
 -----------------------------------------------
 
 ## Optional sequences for control keys
@@ -81,15 +85,6 @@ There are three areas in the keyboard: left — for the left hand; right — for
 + With some enlarged buttons.
 
 ![SEL Keyboard enhanced ergonomics](img/sel-keyboard-enhanced.png)
-
------------------------------------------------
-
-## Column stagger
-
-+ Staggered column SEL, more ergonomic variant:
-
-![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
-
 
 -----------------------------------------------
 
