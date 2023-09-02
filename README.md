@@ -9,18 +9,26 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 + The standard ergonomic layout of the computer keyboard has 90 keys (48 of which are printable character buttons).
 + Left and right sections of the keyboard are tilted 14° inwards from the base (keyboard could also be produced with a slightly variable or changeable tilt).
-+ SEL Keyboard is suitable for desktop and laptop computers.
-+ The user of the keyboard must have option programmatically exchange the keys and save the chosen option.
+
+<br>
 
 + The first image shows the QWERTY layout:
 ![SEL Keyboard QWERTY](img/sel-keyboard-qwerty.png)
 
+<br>
 
 + The second image shows the Dvorak layout (m-dash added to the free key):
 ![SEL Keyboard Dvorak](img/sel-keyboard-dvorak.png)
 
+<br>
+
 + Staggered column, more ergonomic variant:
 ![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
+
+<br>
+
++ SEL Keyboard is suitable for desktop and laptop computers.
++ The user of the keyboard must have option programmatically exchange the keys and save the chosen option.
 
 -----------------------------------------------
 
