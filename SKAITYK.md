@@ -23,7 +23,7 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 <br>
 
-+ SEL su paslinktais stulpeliais, dar ergonomiškesnis variantas:
++ SEL su paslinktais stulpeliais, dar ergonomiškesnis bei glaustesnis variantas:
 
 ![SEL su paslinktais stulpeliais](img/sel-keyboard-basic-column-stagger.png)
 
