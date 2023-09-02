@@ -7,8 +7,8 @@
 
 _This layout was designed with an aim to remove the defects in the layout of conventional standard computer keyboard._
 
-+ The standard ergonomic layout of the computer keyboard has 90 keys (48 of which are printable character buttons).
-+ Left and right sections of the keyboard are tilted 14° inwards from the base (keyboard could also be produced with a slightly variable or changeable tilt).
++ This standard ergonomic computer keyboard layout has 90 keys (of which 48 are printable character keys).
++ The left and right parts of the keyboard are tilted 14° inward from the base (the keyboard can also be manufactured with a slightly variable or variable tilt).
 
 <br>
 
