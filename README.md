@@ -12,17 +12,14 @@ _This layout was designed with an aim to remove the defects in the layout of con
 + SEL Keyboard is suitable for desktop and laptop computers.
 + The user of the keyboard must have option programmatically exchange the keys and save the chosen option.
 
-
++ The first image shows the QWERTY layout:
 ![SEL Keyboard QWERTY](img/sel-keyboard-qwerty.png)
 
-+ The first image shows the QWERTY layout.
 
++ The second image shows the Dvorak layout (m-dash added to the free key):
 ![SEL Keyboard Dvorak](img/sel-keyboard-dvorak.png)
 
-+ The second image shows the Dvorak layout (m-dash added to the free key).
-
 + Staggered column, more ergonomic variant:
-
 ![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
 
 -----------------------------------------------
