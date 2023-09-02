@@ -24,7 +24,7 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 <br>
 
-+ Staggered column, more ergonomic variant:
++ Staggered column, even more ergonomic variant:
 
 ![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
 
