@@ -13,16 +13,19 @@ _This layout was designed with an aim to remove the defects in the layout of con
 <br>
 
 + The first image shows the QWERTY layout:
+
 ![SEL Keyboard QWERTY](img/sel-keyboard-qwerty.png)
 
 <br>
 
 + The second image shows the Dvorak layout (m-dash added to the free key):
+
 ![SEL Keyboard Dvorak](img/sel-keyboard-dvorak.png)
 
 <br>
 
 + Staggered column, more ergonomic variant:
+
 ![SEL Keyboard staggered column ergonomics](img/sel-keyboard-basic-column-stagger.png)
 
 <br>
