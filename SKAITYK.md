@@ -8,17 +8,29 @@ _Šiuo išdėstymu siekta pašalinti įprastos standartinės klaviatūros mygtuk
 
 + Standartinė ergonomiško mygtukų išdėstymo kompiuterio klaviatūra (spaudynas) turi 90 mygtukų (48 iš kurių yra spausdinamųjų ženklų mygtukai).
 + Kairioji ir dešinioji spaudyno skiltys yra pakreiptos 14° į vidų nuo pagrindo (galėtų būti gaminama ir su kiek keičiamu pakreipimo laipsniu).
-+ Spaudynas tinka staliniam bei nešiojamam kompiuteriui.
-+ Spaudyno naudotojas turėtų turėti galimybę programiškai sukeitinėti mygtukus vietomis ir išsisaugoti savo parinktis.
 
+<br>
+
++ Pirmame paveikslėlyje SEL klaviatūroje parodytas QWERTY spausdinamųjų ženklų išdėstymas:
 
 ![Pavyzdinis ergonomiško išdėstymo spaudynas](img/sel-keyboard-qwerty.png)
 
-+ Pirmame paveikslėlyje SEL klaviatūroje parodytas QWERTY spausdinamųjų ženklų išdėstymas.
+<br>
+
++ Antrame paveikslėlyje SEL klaviatūroje — lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/):
 
 ![Ratisė išdėstymas Standartinėje Ergonomiškoje klaviatūroje](img/sel-keyboard-ratise.png)
 
-+ Antrame paveikslėlyje SEL klaviatūroje — lietuviškas išdėstymas [Ratisė](https://albuck.github.io/Ratise-layout/).
+<br>
+
++ SEL su paslinktais stulpeliais, ergonomiškesnis variantas:
+
+![SEL su paslinktais stulpeliais](img/sel-keyboard-basic-column-stagger.png)
+
+<br>
+
++ Spaudynas tinka staliniam bei nešiojamam kompiuteriui.
++ Spaudyno naudotojas turėtų turėti galimybę programiškai sukeitinėti mygtukus vietomis ir išsisaugoti savo parinktis.
 
 -----------------------------------------------
 
@@ -80,15 +92,6 @@ Klaviatūroje yra išskirtinos trys sritys: kairė — kairiajai rankai; dešin�
 + Spaudyno apmatai su padidintais kai kuriais mygtukais.
 
 ![SEL pagerinta spaudyno toga](img/sel-keyboard-enhanced.png)
-
------------------------------------------------
-
-## Paslinkti stulpeliai
-
-+ SEL su paslinktais stulpeliais ergonomiškesnis variantas:
-
-![SEL su paslinktais stulpeliais](img/sel-keyboard-basic-column-stagger.png)
-
 
 -----------------------------------------------
 
