@@ -24,8 +24,8 @@ _This layout was designed with an aim to remove the defects in the layout of con
 
 <br>
 
-+ SEL Keyboard is suitable for desktop and laptop computers.
-+ The user of the keyboard must have option programmatically exchange the keys and save the chosen option.
++ The SEL keyboard is suitable for desktop and laptop computers.
++ The keyboard user must be able to programmatically change keys and save the selected option.
 
 -----------------------------------------------
 
